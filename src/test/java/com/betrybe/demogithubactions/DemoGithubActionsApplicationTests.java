@@ -8,6 +8,7 @@ class DemoGithubActionsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Comentário
 	}
 
 }
